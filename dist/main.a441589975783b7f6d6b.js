@@ -34444,11 +34444,44 @@
                 'div',
                 { className: 'media-body' },
                 _react2.default.createElement(
-                  'h5',
-                  { className: 'mt-0' },
-                  'Ryan Gimmy'
+                  'div',
+                  { className: 'row' },
+                  _react2.default.createElement(
+                    'div',
+                    { className: 'col-md-4' },
+                    _react2.default.createElement('img', { className: 'rounded', src: 'http://www.gravatar.com/avatar/1b938f3a9ab80e8315f8aff6f2fc9950' })
+                  ),
+                  _react2.default.createElement(
+                    'div',
+                    { className: 'col-md-8' },
+                    _react2.default.createElement(
+                      'h5',
+                      { className: 'mt-0' },
+                      'Ryan Gimmy'
+                    ),
+                    _react2.default.createElement(
+                      'small',
+                      null,
+                      'Co-Founder ',
+                      _react2.default.createElement(
+                        'a',
+                        { href: 'http://visallo.com' },
+                        'Visallo'
+                      ),
+                      ', Senior Software Engineer'
+                    )
+                  )
                 ),
-                'Ryan has been developing software since he was in high school and has over 10 year of experience developing software commercially. He considers himself a maker with a software engineer and likes to build things in addition to programming them.'
+                _react2.default.createElement('br', null),
+                _react2.default.createElement(
+                  'div',
+                  { className: 'row' },
+                  _react2.default.createElement(
+                    'div',
+                    { className: 'col-md-12' },
+                    'Ryan has been developing software since he was in high school and has over 10 years of experience developing software. He considers himself a maker with a software engineer and likes to build things in addition to programming them.'
+                  )
+                )
               )
             )
           )
