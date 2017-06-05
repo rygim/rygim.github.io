@@ -34479,7 +34479,7 @@
                   _react2.default.createElement(
                     'div',
                     { className: 'col-md-12' },
-                    'Ryan has been developing software since he was in high school and has over 10 years of experience developing software. He considers himself a maker with a software engineer and likes to build things in addition to programming them.'
+                    'Ryan has been developing software since he was in high school and has over 10 years of experience developing software. He considers himself a maker with a specialty in software and data engineering and likes to build things in addition to programming them.'
                   )
                 )
               )
